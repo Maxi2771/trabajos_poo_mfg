@@ -1,0 +1,7 @@
+C:\Users\maxim\source\repos\Ejercicios\ejer06\bin\Debug\ejer06.exe.config
+C:\Users\maxim\source\repos\Ejercicios\ejer06\bin\Debug\ejer06.exe
+C:\Users\maxim\source\repos\Ejercicios\ejer06\bin\Debug\ejer06.pdb
+C:\Users\maxim\source\repos\Ejercicios\ejer06\obj\Debug\ejer06.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\Ejercicios\ejer06\obj\Debug\ejer06.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\Ejercicios\ejer06\obj\Debug\ejer06.exe
+C:\Users\maxim\source\repos\Ejercicios\ejer06\obj\Debug\ejer06.pdb
