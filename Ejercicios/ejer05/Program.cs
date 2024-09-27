@@ -54,6 +54,7 @@ namespace ejer05
                     {
                         if(letraI == letras[k])
                         {
+                            Console.Clear();
                             LetrasB[k] = 1;
                             comprobar = true;
                         }
@@ -61,13 +62,15 @@ namespace ejer05
 
                     if(comprobar == false)
                     {
+                        Console.Clear();
                         intentos--;
                     }
 
                     if(intentos == 0)
                     {
+                        Console.Clear();
                         game = false;
-                        Console.WriteLine("\nPerdiste...");
+                        Console.WriteLine("Perdiste...");
                     }
                 }
             }while (game);

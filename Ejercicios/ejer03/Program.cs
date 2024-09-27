@@ -22,7 +22,7 @@ namespace ejer03
             }
             else
             {
-                Console.WriteLine("Fallaste vuelve a intentar");
+                Console.WriteLine($"Fallaste vuelve a intentar \nEl número correcto era {aleatorio}");
             }
             Console.ReadKey();
         }

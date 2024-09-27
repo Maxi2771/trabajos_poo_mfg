@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System;
+//Crear un programa que permita al usuario ingresar una lista de tareas y organizarlas por orden de prioridad.
 
 class Tarea
 {
