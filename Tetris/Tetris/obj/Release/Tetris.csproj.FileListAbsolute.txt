@@ -1,0 +1,7 @@
+C:\Users\maxim\source\repos\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Users\maxim\source\repos\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\maxim\source\repos\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\maxim\source\repos\Tetris\Tetris\obj\Release\Tetris.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Users\maxim\source\repos\Tetris\Tetris\obj\Release\Tetris.pdb

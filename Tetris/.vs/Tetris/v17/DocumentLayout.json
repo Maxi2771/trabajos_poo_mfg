@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|c:\\users\\maxim\\source\\repos\\tetris\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|solutionrelative:tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|C:\\Users\\maxim\\source\\repos\\Tetris\\tetris\\pieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|solutionrelative:tetris\\pieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|C:\\Users\\maxim\\source\\repos\\Tetris\\tetris\\piezal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|solutionrelative:tetris\\piezal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|C:\\Users\\maxim\\source\\repos\\Tetris\\tetris\\piezai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|solutionrelative:tetris\\piezai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|C:\\Users\\maxim\\source\\repos\\Tetris\\tetris\\piezat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|solutionrelative:tetris\\piezat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|C:\\Users\\maxim\\source\\repos\\Tetris\\tetris\\piezao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADD71B3-3573-410B-B38F-EDD221D68026}|Tetris\\Tetris.csproj|solutionrelative:tetris\\piezao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PiezaO.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\PiezaO.cs",
+              "RelativeDocumentMoniker": "Tetris\\PiezaO.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\PiezaO.cs",
+              "RelativeToolTip": "Tetris\\PiezaO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:13:17.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PiezaT.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\PiezaT.cs",
+              "RelativeDocumentMoniker": "Tetris\\PiezaT.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\PiezaT.cs",
+              "RelativeToolTip": "Tetris\\PiezaT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:12:18.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PiezaI.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\PiezaI.cs",
+              "RelativeDocumentMoniker": "Tetris\\PiezaI.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\PiezaI.cs",
+              "RelativeToolTip": "Tetris\\PiezaI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:35:47.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PiezaL.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\PiezaL.cs",
+              "RelativeDocumentMoniker": "Tetris\\PiezaL.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\PiezaL.cs",
+              "RelativeToolTip": "Tetris\\PiezaL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:35:22.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pieza.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\Pieza.cs",
+              "RelativeDocumentMoniker": "Tetris\\Pieza.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\Pieza.cs",
+              "RelativeToolTip": "Tetris\\Pieza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:34:43.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\Program.cs",
+              "RelativeDocumentMoniker": "Tetris\\Program.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\Tetris\\Tetris\\Program.cs",
+              "RelativeToolTip": "Tetris\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:32:50.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
