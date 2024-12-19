@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|solutionrelative:ejer017\\baraja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|c:\\users\\maxim\\source\\repos\\ejercicioso\\ejer017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|solutionrelative:ejer017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\barajaespanola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|solutionrelative:ejer017\\barajaespanola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\cartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|solutionrelative:ejer017\\cartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\barajafrancesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A270227-FEED-4C07-A254-E7EFDDE31C72}|ejer017\\ejer017.csproj|solutionrelative:ejer017\\barajafrancesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -33,11 +46,81 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\Program.cs",
+              "RelativeDocumentMoniker": "ejer017\\Program.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\Program.cs",
+              "RelativeToolTip": "ejer017\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:23:31.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baraja.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\Baraja.cs",
+              "RelativeDocumentMoniker": "ejer017\\Baraja.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\Baraja.cs",
+              "RelativeToolTip": "ejer017\\Baraja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:23:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cartas.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\Cartas.cs",
+              "RelativeDocumentMoniker": "ejer017\\Cartas.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\Cartas.cs",
+              "RelativeToolTip": "ejer017\\Cartas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:21:32.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarajaEspanola.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\BarajaEspanola.cs",
+              "RelativeDocumentMoniker": "ejer017\\BarajaEspanola.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\BarajaEspanola.cs",
+              "RelativeToolTip": "ejer017\\BarajaEspanola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:22:00.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BarajaFrancesa.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\BarajaFrancesa.cs",
+              "RelativeDocumentMoniker": "ejer017\\BarajaFrancesa.cs",
+              "ToolTip": "C:\\Users\\maxim\\source\\repos\\EjerciciosO\\ejer017\\BarajaFrancesa.cs",
+              "RelativeToolTip": "ejer017\\BarajaFrancesa.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:21:41.466Z"
             }
           ]
         }
